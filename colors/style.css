@@ -1,0 +1,15 @@
+body{
+    /* Color predefined */
+    background-color: black; 
+    /* RGB colors */
+    background-color: rgb(0,0,255 ); 
+    /* RGBA colors */
+    background-color: rgba(255, 91, 71, 0.5); 
+    /* Hexadecimal values */
+    background-color: #ff0000;
+    /* HSL(Hue,saturation,lightness) */
+    background-color: hsl(120, 100%, 50%);
+    /* HSLA */
+    background-color: hsla(120, 100%, 50%,0.5);
+   
+}
