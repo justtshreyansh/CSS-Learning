@@ -7,4 +7,5 @@
 <ul>
     <li> Colors</li>
     <li> Background<li>
+    <li>Borders<li>
 </ul>
