@@ -1,0 +1,18 @@
+/* Background colors */
+/* #bg{
+    background-color: #b9b9b9;
+}
+body{
+    background-color: #414141;
+} */
+
+
+/* Background Image */
+#bg{
+    background-image: url("images/pexels-rostislav-uzunov-5011647.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
