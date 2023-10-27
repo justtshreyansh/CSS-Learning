@@ -5,7 +5,7 @@
 <h1> Contents:<h1>
 <br>
 <ul>
-    <li> Colors</li>
-    <li> Background<li>
-    <li>Borders<li>
+   <li>Colors<li>
+   <li>Background<li>
+   <li>Border<li>
 </ul>
