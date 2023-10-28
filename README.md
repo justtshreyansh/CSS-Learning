@@ -14,4 +14,6 @@
    <li>Text
    <li>Links
    <li>Fonts
+   <li>Units
+   <li>Cursor
 </ul>
