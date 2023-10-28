@@ -1,0 +1,13 @@
+#padding{
+    border: 1px solid black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    /* Shorthand property for all sides */
+    padding: 25px;
+    /* Shorthand property for top bottom and left right */
+    padding: 25px 50px;
+    /* Shorthand property for top right bottom left */
+    padding: 25px 15px 25px 15px;
+}
