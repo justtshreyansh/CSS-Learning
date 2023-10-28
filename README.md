@@ -11,4 +11,5 @@
    <li>Width and Height
    <li>Padding
    <li>Margin
+   <li>Text
 </ul>
