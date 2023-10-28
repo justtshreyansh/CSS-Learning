@@ -9,4 +9,5 @@
    <li>Background
    <li>Border
    <li>Width and Height
+   <li>Padding
 </ul>
