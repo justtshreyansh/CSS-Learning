@@ -18,4 +18,5 @@
    <li>Cursor
    <li>Box Shadow
    <li>Opacity
+   <li>Filter
 </ul>
