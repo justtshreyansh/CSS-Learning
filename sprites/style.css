@@ -1,0 +1,6 @@
+.sprite{
+    height: 128px;
+    background-image: url("./sprite.webp");
+    background-repeat: no-repeat;
+    background-position: 0 -143px;
+}
