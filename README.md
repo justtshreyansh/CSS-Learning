@@ -19,4 +19,5 @@
    <li>Box Shadow
    <li>Opacity
    <li>Filter
+   <li>Image Sprites
 </ul>
