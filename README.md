@@ -17,4 +17,5 @@
    <li>Units
    <li>Cursor
    <li>Box Shadow
+   <li>Opacity
 </ul>
