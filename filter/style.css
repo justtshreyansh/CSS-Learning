@@ -1,0 +1,8 @@
+img{
+   
+    filter: grayscale(80%);
+    filter: hue-rotate(90deg);
+    filter: invert(100%);
+    filter: saturate(30%);
+    filter: sepia(100%);
+}
