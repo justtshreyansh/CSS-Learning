@@ -25,4 +25,5 @@
    <li>Resizeable
    <li>CSS Lists
    <li>Table
+   <li>CSS Functions
 </ul>
