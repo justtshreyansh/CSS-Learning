@@ -22,4 +22,5 @@
    <li>Image Sprites
    <li>Gradient
    <li>Overflow
+   <li>Resizeable
 </ul>
