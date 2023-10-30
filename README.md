@@ -20,4 +20,5 @@
    <li>Opacity
    <li>Filter
    <li>Image Sprites
+   <li>Gradient
 </ul>
