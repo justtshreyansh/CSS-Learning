@@ -24,4 +24,5 @@
    <li>Overflow
    <li>Resizeable
    <li>CSS Lists
+   <li>Table
 </ul>
