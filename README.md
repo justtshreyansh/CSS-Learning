@@ -26,4 +26,5 @@
    <li>CSS Lists
    <li>Table
    <li>CSS Functions
+   <li>Box Sizing
 </ul>
