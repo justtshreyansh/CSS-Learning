@@ -1,0 +1,21 @@
+*{
+    margin: 1;
+    padding: 1;
+
+}
+:root{
+    --color-bg:skyblue;
+    --color-btn:teal;
+
+}
+#div{
+    height: 200px;
+    background-color: var(--color-bg);
+}
+a{
+    margin: 20px;
+    padding: 10px 15px;
+    background-color: var(--color-btn);
+    text-decoration: none;
+    
+}
